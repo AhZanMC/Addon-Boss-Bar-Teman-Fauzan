@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Buat serper by Fauzan",
+    "name": "Boss Bar Teman Fauzan ",
+    "uuid": "2231273d-928b-4cd0-bb4e-24044e05b4ad",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Buat serper by Fauzan",
+      "type": "resources",
+      "uuid": "4e136383-4111-43fa-b42e-9af6f007e763",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "9a11b03e-8a00-4582-b1ae-a949e4281409",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
