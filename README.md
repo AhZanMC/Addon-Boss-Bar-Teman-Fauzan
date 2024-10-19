@@ -7,7 +7,7 @@
 
 ![Generic Badge](https://img.shields.io/github/downloads/AhZanMC/Addon-Boss-Bar-Teman-Fauzan/total) ![Size](https://img.shields.io/github/repo-size/AhZanMC/Addon-Boss-Bar-Teman-Fauzan)
 
-Addon ini memungkinkan player atau admin server untuk mengubah nama boss bar di dalam game Minecraft dengan memanfaatkan entity bernama **NPC**. Dengan addon ini, kamu dapat memberikan nama khusus pada boss bar yang muncul saat bertarung dengan boss di dunia Minecraft.
+Addon ini memungkinkan player atau admin server untuk mengubah nama boss bar di dalam game Minecraft dengan memanfaatkan entity bernama **NPC**. Dengan addon ini, kamu dapat memberikan nama khusus pada boss bar yang muncul di server Minecraft.
 
 Ini adalah addon yang aku buat menggunakan aplikasi [AddOns Maker for Minecraft PE](https://play.google.com/store/apps/details?id=co.pamobile.minecraft.addonsmaker&pcampaignid=web_share) 
 
