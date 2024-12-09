@@ -46,7 +46,7 @@ Dibuat menggunakan [AddOns Maker for Minecraft PE](https://play.google.com/store
 Kalo mau review addon ini, wajib banget untuk meletakkan link repository github ini di deskripsi atau pin komen sebagai link download. **GAK BOLEH DI RELINK**
 
 ## Creator
-- Creator : [AhZanMC](https://bio-link.ahzanmc.my.id/)
+- Creator : [AhZanMC](https://ahzanmc.my.id/bio-link)
 - Youtube : [AhZanMC](https://youtube.com/c/AhZanMC)
 - Instagram : [@ahzanmc](https://www.instagram.com/ahzanmc/)
 - Tiktok : [@ahzanmc](http://tiktok.com/@ahzanmc)
